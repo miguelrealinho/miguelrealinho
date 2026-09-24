@@ -4,8 +4,8 @@
 
 📚 European Computer Science Programme @ HAW Hamburg (2025-Sep2026) 🇩🇪
 
-🔨 Python · Java · C++ · React
+⚙️ Python · Java · React · TypeScript · C/C++ · SQL 
 
-👀 Currently working on AI and MCP systems for my Bachelor's Thesis
+🔨 Currently working on AI and MCP systems for my Bachelor's Thesis
 
 miguelrealinho04@gmail.com
